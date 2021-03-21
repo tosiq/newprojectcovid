@@ -1,0 +1,41 @@
+body{ background-color: lightblue;}
+#main_container{
+
+    width: 405px;
+    background-color: white;
+}
+#header1{
+
+    width: 405px;
+    height: 49px;
+    background-color: whitesmoke;
+
+}
+#header1 img{
+
+    max-width: 40px;
+    position: absolute;
+    margin-top: 24px;
+  
+}
+#heading{
+
+
+    font-size: 19px;
+    font-weight: bold;
+    font-style: normal;
+    margin-top: 20px;
+    text-align: center;
+}
+#button1{
+
+padding-top: 100px;
+
+}
+#button2{
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+#para2{
+    font-size: 12px;
+}

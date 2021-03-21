@@ -1,0 +1,188 @@
+#container1{
+    height: 949px;
+    width: 405px;
+   
+    border-radius: 0px;
+    background-color: #EFF0F1;
+}
+#logo{
+    top: 100px;
+    display: block;
+    max-width: 90px;
+    height: auto;
+    padding-left: 20px;
+    padding-top: 20px;
+
+
+}
+#heading1{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#para{
+    font-size: 14px;
+    padding-left: 10px;
+}
+#img2{
+    max-width: 105px;
+    height: auto;
+    padding-top: 45px;
+    position: absolute;
+   
+}
+#button{
+    /* width: 100%; */
+    width: 405px;
+    padding-top: 20px;
+    /* margin-inline-start: 2px; */
+}
+
+
+/* 2ndindex */
+#logo2{
+    background-color: #EFF0F1;
+    
+   
+}
+/* #logo1{
+  
+    display: block;
+    max-width: 90px;
+    height: auto;
+    padding-left: 20px;
+    position: absolute;
+} */
+
+  #logo3{
+  
+        display: block;
+        max-width: 80px;
+        height: auto;
+        padding-left: 20px;
+        /* position: absolute; */
+       
+       
+  
+        
+    }
+    #logo4{
+        margin-top: 10px;
+        display: flex;
+    }
+  
+ 
+
+
+
+
+#container2{
+    height: 949px;
+    width: 405px;
+   
+    border-radius: 0px;
+    background-color: white;
+}
+#heading2{
+    margin-top: 60px;
+    margin-left: 10px;
+}
+#para2{
+    width: 100%;
+    margin-left:2px;
+    font-size: 18px;
+}
+#heading3{
+    margin-top: 10px;
+    margin-left: 2px;
+}
+#para3{
+    width: 100%;
+    margin-left:2px;
+font-size: 18px;}
+
+/* 
+3rd */
+
+
+
+#container3{
+    height: 949px;
+    width: 405px;
+   
+    border-radius: 0px;
+    background-color: white;
+
+
+}
+#back{
+background-color: #EFF0F1;
+}
+
+#img45{
+  
+    display: block;
+    max-width: 80px;
+    height: auto;
+    
+    padding-top: 10px;
+    margin-left: 20px;
+  
+    /* position: absolute; */
+   
+   
+
+    
+}
+
+
+#container46{
+    height: 949px;
+    width: 405px;
+    
+    margin-left: 0px;
+   
+    border-radius: 0px;
+    background-color: white;
+}
+#img425{
+  
+display: block;
+ max-width: 80px;
+    
+    height: auto;
+    padding-left: 20px;
+   
+    padding-top: 30px;
+    
+}
+#back1{
+    background-color: #EFF0F1;
+    }
+    #para4{
+        width: 100%;
+        margin-left:2px;
+    font-size: 14px;}
+
+
+    body{ background-color: lightblue;}
+#main_container{
+
+    width: 330px;
+    background-color: white;
+    height: 600px;
+}
+#header1{
+
+    width: inherit;
+    height: 49px;
+    background-color: whitesmoke;
+
+}
+#header1 img{
+
+    max-width: 55px;
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 5px;

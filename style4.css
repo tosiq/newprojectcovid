@@ -1,0 +1,59 @@
+body{ background-color: lightblue;}
+#main_container{
+
+    width: 330px;
+    background-color: white;
+    height: 600px;
+}
+#header1{
+
+    width: inherit;
+    height: 49px;
+    background-color: whitesmoke;
+
+}
+#header1 img{
+
+    max-width: 55px;
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 5px;
+  
+}
+#heading{
+    padding-top: 10px;
+    font-size: 14px;
+    /* font-weight: bold; */
+    font-style: normal;
+    margin-top: 50px;
+    margin-left: 5px;
+     
+    
+}
+#list li{
+    font-style: normal;
+    margin-left: -34px;
+    
+    
+    
+ }
+#para{
+
+    font-size: 13px;
+    font-style: normal;
+    margin-left: 5px;
+    
+}
+
+#heading3{
+    padding-top: 20px;
+    margin-left: 5px;
+}
+#para3{
+    font-size: 14px;
+    margin-left: 5px;
+}
+#para2{
+    font-size: 12px;
+    margin-left: 5px;
+}
